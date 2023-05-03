@@ -1,0 +1,2 @@
+# errorBoundariesReact
+Created with CodeSandbox
